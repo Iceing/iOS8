@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UIView+sizeclass.h
 //  iOS8
 //
 //  Created by 蔡跃明 on 15/11/17.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface UIView (sizeclass)
 
 @end
-
